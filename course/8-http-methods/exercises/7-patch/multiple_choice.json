@@ -3,5 +3,6 @@
   "answers": [
     "PUT, PATCH",
     "PATCH, PUT"
-  ]
+  ],
+  "correctAnswer":"PUT, PATCH"
 }

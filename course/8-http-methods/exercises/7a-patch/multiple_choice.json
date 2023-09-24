@@ -3,5 +3,6 @@
   "answers": [
     "entire resources, a partial resource",
     "a partial resource, entire resources"
-  ]
+  ],
+  "correctAnswer":"entire resources, a partial resource"
 }

@@ -5,5 +5,6 @@
     "Alter the method of the request",
     "Not need to send a response body",
     "Speed up the request"
-  ]
+  ],
+  "correctAnswer":"Inform the client about whether or not the request was successful"
 }

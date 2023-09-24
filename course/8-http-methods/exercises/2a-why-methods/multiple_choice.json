@@ -5,5 +5,6 @@
     "POST",
     "GET",
     "DELETE"
-  ]
+  ],
+  "correctAnswer":"PUT"
 }
