@@ -4,5 +4,6 @@
     "async / await",
     "New Promise() / .then()",
     "It doesn't matter, use what you feel like that day"
-  ]
+  ],
+  "correctAnswer":"async / await"
 }

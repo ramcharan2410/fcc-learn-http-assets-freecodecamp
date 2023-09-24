@@ -5,5 +5,6 @@
     ".then(), New Promise()",
     ".then(), .catch()",
     ".catch(), .then()"
-  ]
+  ],
+  "correctAnswer":"New Promise(), .then()"
 }

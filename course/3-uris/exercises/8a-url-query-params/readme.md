@@ -1,6 +1,6 @@
 # Query parameters
 
-Query parameters in a URL are *not* always present. In the context of websites, query parameters are often used for marketing analytics or for changing a variable on the web page. With website URLs, the query parameters *rarely* are used to change *which* page you're viewing, though they often will change the page's *contents*.
+Query parameters in a URL are _not_ always present. In the context of websites, query parameters are often used for marketing analytics or for changing a variable on the web page. With website URLs, the query parameters _rarely_ change _which_ page you're viewing, though they often will change the page's _contents_.
 
 That said, query parameters can be used for anything the server chooses to use them for, just like the URL's path.
 
@@ -12,4 +12,4 @@ That said, query parameters can be used for anything the server chooses to use t
 4. Change the URL to say `https://www.google.com/search?q=hello+universe`
 5. Press "enter"
 
-You should see new search results for the query "hello universe". Google chose to use query parameters to represent the value of your search query. It makes sense - each search result page is *essentially* the same page as far as structure and formatting are concerned - it's just showing you different results based on the search query. 
+You should see new search results for the query "hello universe". Google chose to use query parameters to represent the value of your search query. It makes sense - each search result page is _essentially_ the same page as far as structure and formatting are concerned - it's just showing you different results based on the search query.

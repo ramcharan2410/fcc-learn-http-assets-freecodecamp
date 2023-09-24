@@ -4,5 +4,6 @@
     "which page is served",
     "the contents of the page",
     "marketing and analytics information"
-  ]
+  ],
+  "correctAnswer":"which page is served"
 }

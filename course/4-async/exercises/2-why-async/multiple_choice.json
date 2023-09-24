@@ -3,5 +3,6 @@
   "answers": [
     "Synchronous code",
     "Asynchronous code"
-  ]
+  ],
+  "correctAnswer":"Synchronous code"
 }

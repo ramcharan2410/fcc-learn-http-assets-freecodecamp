@@ -5,5 +5,6 @@
     "A function that adds 2 numbers together",
     "A really slow algorithm",
     "The JavaScript programming language"
-  ]
+  ],
+  "correctAnswer":"An HTTP request"
 }
