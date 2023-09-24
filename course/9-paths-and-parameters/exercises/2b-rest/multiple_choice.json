@@ -4,5 +4,6 @@
     "Last",
     "First",
     "Middle"
-  ]
+  ],
+  "correctAnswer": "Last"
 }

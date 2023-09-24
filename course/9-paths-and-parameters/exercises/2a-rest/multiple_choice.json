@@ -5,5 +5,6 @@
     "No, it's generally a bad idea",
     "Yes, if it doesn't it's an insecure server",
     "Yes, otherwise the requests will fail"
-  ]
+  ],
+  "correctAnswer":"No, but it's a common convention designed to create better APIs"
 }

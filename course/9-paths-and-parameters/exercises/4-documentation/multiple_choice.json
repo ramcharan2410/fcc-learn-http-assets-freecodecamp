@@ -4,5 +4,6 @@
     "The server's API documentation",
     "The server code",
     "The server's private keys"
-  ]
+  ],
+  "correctAnswer":"The server's API documentation"
 }
