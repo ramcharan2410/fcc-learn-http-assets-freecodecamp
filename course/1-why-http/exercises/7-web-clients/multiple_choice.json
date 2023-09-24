@@ -3,5 +3,6 @@
   "answers": [
     "Web client",
     "Web server"
-  ]
+  ],
+  "correctAnswer":"Web client"
 }

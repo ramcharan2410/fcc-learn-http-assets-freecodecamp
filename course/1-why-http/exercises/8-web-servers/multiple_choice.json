@@ -4,5 +4,6 @@
     "Always",
     "Only when a client is active",
     "Only during business hours"
-  ]
+  ],
+  "correctAnswer":"Always"
 }

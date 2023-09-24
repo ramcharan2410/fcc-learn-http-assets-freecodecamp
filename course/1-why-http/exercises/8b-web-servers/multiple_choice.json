@@ -4,5 +4,6 @@
     "True",
     "False, only computers in data-centers can be servers",
     "False, all computers are equally good at serving data"
-  ]
+  ],
+  "correctAnswer": "True"
 }

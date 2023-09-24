@@ -3,5 +3,7 @@
   "answers": [
     "False",
     "True"
-  ]
+  ],
+  "correctAnswer":"False",
+  "reason":"No, HTTP and HTTPS traffic can use ports other than just 80 and 443. While ports 80 and 443 are the default ports for HTTP and HTTPS respectively, you can configure web servers and applications to listen on different ports if needed. The use of alternative ports is common for various purposes, including testing, development, load balancing, and running multiple web applications on the same server."
 }

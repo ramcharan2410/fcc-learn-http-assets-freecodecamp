@@ -8,4 +8,4 @@ console.log(`You are ${age} years old`)
 // You are 5 years old
 ```
 
-Notice the backticks being used, they aren't signle quotes!
+Notice the backticks being used, they aren't single quotes!

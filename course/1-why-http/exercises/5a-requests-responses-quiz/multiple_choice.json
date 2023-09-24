@@ -3,5 +3,6 @@
   "answers": [
     "Server",
     "Client"
-  ]
+  ],
+  "correctAnswer":"Server"
 }

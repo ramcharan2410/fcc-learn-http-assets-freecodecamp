@@ -3,12 +3,12 @@ const url = getURL()
 const settings = getSettings()
 
 const response = fetch(url, settings)
+// The bug is that 'await' keyword is missing for the fetch request above
 const responseData = await response.json()
 
 logItems(responseData)
 
 // don't touch below this line
-
 
 function getSettings() {
   return {
@@ -16,8 +16,8 @@ function getSettings() {
     mode: 'cors',
     headers: {
       'X-API-Key': apiKey,
-      'Content-Type': 'application/json'
-    }
+      'Content-Type': 'application/json',
+    },
   }
 }
 
@@ -28,7 +28,7 @@ function getURL() {
 function generateKey() {
   const characters = 'ABCDEF0123456789'
   let result = ''
-  for (let i = 0; i < 16; i++){
+  for (let i = 0; i < 16; i++) {
     result += characters.charAt(Math.floor(Math.random() * characters.length))
   }
   return result
@@ -37,5 +37,5 @@ function generateKey() {
 function logItems(items) {
   for (item of items) {
     console.log(item.name)
-  } 
+  }
 }

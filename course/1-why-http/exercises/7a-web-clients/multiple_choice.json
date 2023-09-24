@@ -3,5 +3,6 @@
   "answers": [
     "HTTP client",
     "HTTP server"
-  ]
+  ],
+  "correctAnswer":"HTTP client"
 }

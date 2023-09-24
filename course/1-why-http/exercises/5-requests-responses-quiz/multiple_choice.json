@@ -3,5 +3,7 @@
   "answers": [
     "Client",
     "Server"
-  ]
+  ],
+  "correctAnswer": "Client",
+  "reason":"Here's why it's typically considered client-side code:fetch API: The fetch function is a client-side API used for making HTTP requests from a web browser. It's not available in server-side JavaScript environments by default. console.log: The console.log statement is used for logging messages to the browser's console, which is a client-side debugging tool.await: While async/await can be used in server-side JavaScript (e.g., in Node.js), the context in which this code snippet is written suggests that it's intended to run in a client-side environment."
 }

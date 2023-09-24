@@ -3,5 +3,7 @@
   "answers": [
     "True",
     "False"
-  ]
+  ],
+  "correctAnswer":"True",
+  "reason":"The protocol and domain name is required, others are optional"
 }
