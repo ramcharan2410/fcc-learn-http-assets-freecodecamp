@@ -3,5 +3,6 @@
   "answers": [
     "JSON",
     "XML"
-  ]
+  ],
+  "correctAnswer":"JSON"
 }
